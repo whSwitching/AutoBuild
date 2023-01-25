@@ -1,2 +1,1 @@
-# OpenWrt-AutoBuild
-build OpenWrt firmware with github Actions
+https://github.com/P3TERX/Actions-OpenWrt
